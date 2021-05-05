@@ -1,5 +1,6 @@
 from flask import Flask
 from app.routes import home, dashboard
+from app.db import init_db
 
 
 def create_app(test_config=None):
@@ -18,4 +19,5 @@ def create_app(test_config=None):
     app.register_blueprint(home)
     app.register_blueprint(dashboard)
 
+    init_db(app)
     return app
