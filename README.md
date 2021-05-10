@@ -2,11 +2,11 @@
 
 ## Description 
 
-Just Tech News app that lets users submit links to tech-related articles. The user can comment on the articles and even upvote their favorites for points. This back end of this app was refactored to use Python instead of Node.js.
+Just Tech News app that lets users submit links to tech-related articles. The user can comment on the articles and even upvote their favorites for points. The back end of this app was refactored to use Python instead of Node.js.
 
 ## Table of Contents
 
-  * [Technoligies](#Technologies)
+  * [Technologies](#Technologies)
   * [Usage](#Usage)    
   * [Resources](#Resources)
   * [Questions](#Questions)
@@ -25,6 +25,8 @@ Just Tech News app that lets users submit links to tech-related articles. The us
 ## Usage
 
 URL - https://tech-newsie.herokuapp.com/
+
+Create a login on the homepage to start adding articles.
 
 
 ## Resources
