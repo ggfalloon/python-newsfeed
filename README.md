@@ -6,7 +6,7 @@ Just Tech News app that lets users submit links to tech-related articles. The us
 
 ## Table of Contents
 
-  * [Technoligies](#Technologies)
+  * [Technologies](#Technologies)
   * [Usage](#Usage)    
   * [Resources](#Resources)
   * [Questions](#Questions)
