@@ -19,7 +19,7 @@ def signup():
             password=data['password']
         )
 
-    #save in database
+    # save in database
         db.add(newUser)
         db.commit()
     except:
@@ -47,9 +47,18 @@ def login():
     data = request.get_json()
     db = get_db()
 
-       try:
-            user = db.query(User).filter(User.email == data['email']).one()
-        except:
-            print(sys.exc_info()[0])
+    try:
+        user = db.query(User).filter(User.email == data['email']).one()
+    except:
+        print(sys.exc_info()[0])
 
-    return jsonify(message= 'Incorrect credentials'), 400
+        return jsonify(message='Incorrect credentials'), 400
+
+    if user.verify_password(data['password']) == False:
+        return jsonify(message='Incorrect credentials'), 400
+
+    session.clear()
+    session['user_id'] = user.id
+    session['loggedIn'] = True
+
+    return jsonify(id=user.id)
