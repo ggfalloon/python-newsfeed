@@ -24,7 +24,7 @@ Just Tech News app that lets users submit links to tech-related articles. The us
 
 ## Usage
 
-URL - 
+URL - https://tech-newsie.herokuapp.com/
 
 
 ## Resources
