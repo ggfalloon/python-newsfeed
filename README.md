@@ -31,13 +31,13 @@ Create a login on the homepage to start adding articles.
 
 Add the title and articles to your dashboard.
 
-![screencapture-tech-newsie-herokuapp-post-2-2021-05-12-12_25_38](https://user-images.githubusercontent.com/71281652/118018424-5f58a300-b31d-11eb-91fb-fb0c3b091b58.png)
+![screencapture-tech-newsie-herokuapp-dashboard-2021-05-12-12_24_33](https://user-images.githubusercontent.com/71281652/118018471-73040980-b31d-11eb-89a2-72fc7eee9ef4.png)
 
-You can edit Your post comments and upvote the articles you love.
+You can edit your post comments and upvote the articles you love.
 
 ![screencapture-tech-newsie-herokuapp-dashboard-edit-2-2021-05-12-12_24_59](https://user-images.githubusercontent.com/71281652/118018458-6d0e2880-b31d-11eb-84ce-fa0876723cbc.png)
 
-![screencapture-tech-newsie-herokuapp-dashboard-2021-05-12-12_24_33](https://user-images.githubusercontent.com/71281652/118018471-73040980-b31d-11eb-89a2-72fc7eee9ef4.png)
+![screencapture-tech-newsie-herokuapp-post-2-2021-05-12-12_25_38](https://user-images.githubusercontent.com/71281652/118018424-5f58a300-b31d-11eb-91fb-fb0c3b091b58.png)
 
 ## Resources
 
