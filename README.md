@@ -12,7 +12,6 @@ Just Tech News app that lets users submit links to tech-related articles. The us
   * [Questions](#Questions)
   * [License](#License)
 
-
 ## Technologies
 
 * Python
@@ -28,10 +27,23 @@ URL - https://tech-newsie.herokuapp.com/
 
 Create a login on the homepage to start adding articles.
 
+![screencapture-tech-newsie-herokuapp-login-2021-05-12-12_25_57](https://user-images.githubusercontent.com/71281652/118018355-4a7c0f80-b31d-11eb-8501-2a6e84f08063.png)
+
+Add the title and articles to your dashboard.
+
+![screencapture-tech-newsie-herokuapp-post-2-2021-05-12-12_25_38](https://user-images.githubusercontent.com/71281652/118018424-5f58a300-b31d-11eb-91fb-fb0c3b091b58.png)
+
+You can edit Your post comments and upvote the articles you love.
+
+![screencapture-tech-newsie-herokuapp-dashboard-edit-2-2021-05-12-12_24_59](https://user-images.githubusercontent.com/71281652/118018458-6d0e2880-b31d-11eb-84ce-fa0876723cbc.png)
+
+![screencapture-tech-newsie-herokuapp-dashboard-2021-05-12-12_24_33](https://user-images.githubusercontent.com/71281652/118018471-73040980-b31d-11eb-89a2-72fc7eee9ef4.png)
 
 ## Resources
 
-
+* Python for JavaScript Developers - Coding Boot Camp Contining Ed Course
+* https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+* https://docs.python.org/3/tutorial/errors.html
 
 
 ## Questions
